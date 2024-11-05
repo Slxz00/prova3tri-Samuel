@@ -1,0 +1,15 @@
+body {
+    background-color: red;
+    font-style: italic;
+    align-items: center;
+}
+
+.p1 {
+    color: aliceblue;
+    font-style: inherit;
+}
+
+.img1 {
+    width: 25%;
+    font-size: medium;
+}
